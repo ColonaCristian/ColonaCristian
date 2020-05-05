@@ -1,6 +1,6 @@
 public class ColonaCerchio {
 	private int raggio;
-	
+	/*1*/
 	public ColonaCerchio(int r) {
 		raggio=r;
 	}
